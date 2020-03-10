@@ -5,45 +5,59 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level01", "Level01", "{F8CE4668-E671-43EF-8178-EEABC832B90C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level01.Sample", "Level01.Sample\Level01.Sample.csproj", "{F05BDEA3-2DD5-4855-9729-71D40A83EF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level01.Sample", "Level01.Sample\Level01.Sample.csproj", "{F05BDEA3-2DD5-4855-9729-71D40A83EF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level01.SampleTests", "Level01.SampleTests\Level01.SampleTests.csproj", "{6CB9D90B-5F76-4B68-A762-E5E7282923AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level01.SampleTests", "Level01.SampleTests\Level01.SampleTests.csproj", "{6CB9D90B-5F76-4B68-A762-E5E7282923AA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level02", "Level02", "{95044880-2794-4365-AC46-BCFC4374C691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level02.Sample", "Level02.Sample\Level02.Sample.csproj", "{46D66711-48C6-43EE-812B-9EC38F314C31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level02.Sample", "Level02.Sample\Level02.Sample.csproj", "{46D66711-48C6-43EE-812B-9EC38F314C31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level02.SampleTests", "Level02.SampleTests\Level02.SampleTests.csproj", "{5F0961F2-3266-48BC-ADF9-86804A401B0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level02.SampleTests", "Level02.SampleTests\Level02.SampleTests.csproj", "{5F0961F2-3266-48BC-ADF9-86804A401B0D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level03", "Level03", "{9DCCB172-33E9-4B47-B7B4-13927503D953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level03.Sample", "Level03.Sample\Level03.Sample.csproj", "{90012115-512F-487B-B7FE-3D403D793A0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level03.Sample", "Level03.Sample\Level03.Sample.csproj", "{90012115-512F-487B-B7FE-3D403D793A0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level03.SampleTests", "Level03.SampleTests\Level03.SampleTests.csproj", "{3DE1BF12-1021-4B32-82BE-27D5538C6E26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level03.SampleTests", "Level03.SampleTests\Level03.SampleTests.csproj", "{3DE1BF12-1021-4B32-82BE-27D5538C6E26}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level04", "Level04", "{10B35D22-49EB-4279-948C-7AECCE2281D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level04.Sample.Common", "Level04.Sample.Common\Level04.Sample.Common.csproj", "{84754792-583F-4320-B444-A3FEE4A763E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level04.Sample.Common", "Level04.Sample.Common\Level04.Sample.Common.csproj", "{84754792-583F-4320-B444-A3FEE4A763E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level04.Sample.Repository", "Level04.Sample.Repository\Level04.Sample.Repository.csproj", "{DC7B8E39-282B-476D-97CD-571404ED3E32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level04.Sample.Repository", "Level04.Sample.Repository\Level04.Sample.Repository.csproj", "{DC7B8E39-282B-476D-97CD-571404ED3E32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level04.Sample.Service", "Level04.Sample.Service\Level04.Sample.Service.csproj", "{383DAFD6-E69D-479D-9868-F3C097F312EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level04.Sample.Service", "Level04.Sample.Service\Level04.Sample.Service.csproj", "{383DAFD6-E69D-479D-9868-F3C097F312EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level04.Sample.ServiceTests", "Level04.Sample.ServiceTests\Level04.Sample.ServiceTests.csproj", "{52843BE3-A7DE-455D-BEEA-53B90426922B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level04.Sample.ServiceTests", "Level04.Sample.ServiceTests\Level04.Sample.ServiceTests.csproj", "{52843BE3-A7DE-455D-BEEA-53B90426922B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level05", "Level05", "{321E0CDF-4FCE-40FE-9F19-828E6742B6B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level05.Sample.Common", "Level05.Sample.Common\Level05.Sample.Common.csproj", "{5D8F2928-6395-4ADE-B014-2243EF0E07BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level05.Sample.Common", "Level05.Sample.Common\Level05.Sample.Common.csproj", "{5D8F2928-6395-4ADE-B014-2243EF0E07BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level05.Sample.Repository", "Level05.Sample.Repository\Level05.Sample.Repository.csproj", "{D6635496-FA7B-496F-B94D-B8A25229C678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level05.Sample.Repository", "Level05.Sample.Repository\Level05.Sample.Repository.csproj", "{D6635496-FA7B-496F-B94D-B8A25229C678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level05.Sample.Service", "Level05.Sample.Service\Level05.Sample.Service.csproj", "{4CACC969-1901-40DE-9D0F-7680D0D0CEA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level05.Sample.Service", "Level05.Sample.Service\Level05.Sample.Service.csproj", "{4CACC969-1901-40DE-9D0F-7680D0D0CEA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level05.Sample.ServiceTests", "Level05.Sample.ServiceTests\Level05.Sample.ServiceTests.csproj", "{40F79CED-AA4A-4B68-9408-1AF75705722B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Level05.Sample.ServiceTests", "Level05.Sample.ServiceTests\Level05.Sample.ServiceTests.csproj", "{40F79CED-AA4A-4B68-9408-1AF75705722B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level07", "Level07", "{A284E1E4-642A-4187-AA4E-E6E204B78516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFixtureSample", "AutoFixtureSample\AutoFixtureSample.csproj", "{7918AEAF-3614-4C84-A1DF-1CD4AA13EE30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoFixtureSample", "AutoFixtureSample\AutoFixtureSample.csproj", "{7918AEAF-3614-4C84-A1DF-1CD4AA13EE30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level06", "Level06", "{52701AB8-AD03-4CB6-88D5-DDDD7FB3D5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level06.Sample.Repository", "Level06.Sample.Repository\Level06.Sample.Repository.csproj", "{DE561154-47C9-4C7C-9057-E8882F57FFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level06.Sample.Service", "Level06.Sample.Service\Level06.Sample.Service.csproj", "{E8877445-6619-4268-8EBD-F3FE5D1EAA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level06.Sample.ServiceTests", "Level06.Sample.ServiceTests\Level06.Sample.ServiceTests.csproj", "{A8172355-6476-4253-9B68-A02DCEA1DDDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level08", "Level08", "{B7E44C64-E457-435E-95F1-06A7678B1A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level08.Sample.Repository", "Level08.Sample.Repository\Level08.Sample.Repository.csproj", "{938282AC-6D7F-4652-B6E5-2D3018D62660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level08.Sample.RepositoryTests", "Level08.Sample.RepositoryTests\Level08.Sample.RepositoryTests.csproj", "{01E9497F-540F-41EA-8FDF-BC23817B17DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +125,26 @@ Global
 		{7918AEAF-3614-4C84-A1DF-1CD4AA13EE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7918AEAF-3614-4C84-A1DF-1CD4AA13EE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7918AEAF-3614-4C84-A1DF-1CD4AA13EE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE561154-47C9-4C7C-9057-E8882F57FFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE561154-47C9-4C7C-9057-E8882F57FFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE561154-47C9-4C7C-9057-E8882F57FFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE561154-47C9-4C7C-9057-E8882F57FFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8877445-6619-4268-8EBD-F3FE5D1EAA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8877445-6619-4268-8EBD-F3FE5D1EAA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8877445-6619-4268-8EBD-F3FE5D1EAA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8877445-6619-4268-8EBD-F3FE5D1EAA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8172355-6476-4253-9B68-A02DCEA1DDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8172355-6476-4253-9B68-A02DCEA1DDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8172355-6476-4253-9B68-A02DCEA1DDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8172355-6476-4253-9B68-A02DCEA1DDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938282AC-6D7F-4652-B6E5-2D3018D62660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938282AC-6D7F-4652-B6E5-2D3018D62660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938282AC-6D7F-4652-B6E5-2D3018D62660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938282AC-6D7F-4652-B6E5-2D3018D62660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E9497F-540F-41EA-8FDF-BC23817B17DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E9497F-540F-41EA-8FDF-BC23817B17DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E9497F-540F-41EA-8FDF-BC23817B17DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E9497F-540F-41EA-8FDF-BC23817B17DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -131,6 +165,11 @@ Global
 		{4CACC969-1901-40DE-9D0F-7680D0D0CEA0} = {321E0CDF-4FCE-40FE-9F19-828E6742B6B5}
 		{40F79CED-AA4A-4B68-9408-1AF75705722B} = {321E0CDF-4FCE-40FE-9F19-828E6742B6B5}
 		{7918AEAF-3614-4C84-A1DF-1CD4AA13EE30} = {A284E1E4-642A-4187-AA4E-E6E204B78516}
+		{DE561154-47C9-4C7C-9057-E8882F57FFF2} = {52701AB8-AD03-4CB6-88D5-DDDD7FB3D5E9}
+		{E8877445-6619-4268-8EBD-F3FE5D1EAA2A} = {52701AB8-AD03-4CB6-88D5-DDDD7FB3D5E9}
+		{A8172355-6476-4253-9B68-A02DCEA1DDDA} = {52701AB8-AD03-4CB6-88D5-DDDD7FB3D5E9}
+		{938282AC-6D7F-4652-B6E5-2D3018D62660} = {B7E44C64-E457-435E-95F1-06A7678B1A02}
+		{01E9497F-540F-41EA-8FDF-BC23817B17DF} = {B7E44C64-E457-435E-95F1-06A7678B1A02}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {707B263D-346C-4B7C-B050-B3EF42AE4744}
